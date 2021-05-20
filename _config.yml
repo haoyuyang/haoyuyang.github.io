@@ -4,14 +4,14 @@ version: "1.0"
 permalink: /:year/:month/:day/:title/
 
 # 站点设置
-title: "Guovz"
-email: pzhuwjl@qq.com
-description: "王继林的个人博客"
-keywords: "Guovz"
+title: "一入开发岁月催"
+email: 623108166@qq.com
+description: "郝玉杨的个人博客"
+keywords: "一入开发岁月催"
 
 # 用户信息设置
-weibo_username: Guovz
-github_username: guovz
+weibo_username: 一入开发岁月催
+github_username: 一入开发岁月催
 
 # Markdown设置
 kramdown:
